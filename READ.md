@@ -1,7 +1,7 @@
 # Proyecto: Analisis de Partidas y MVPs
 
 Este proyecto analiza los resultados de varias partidas, generando rankings y determinando los MVPs.
-El codigo fuente con las funciones necesarias se encuentra en el directorio `src`, mientras que los notebooks de analisis estan en la carpeta `notebooks`.
+El codigo fuente con las funciones necesarias se encuentra en el directorio `src`, mientras que los notebooks de analisis estan en la carpeta `notebooks` en la cual estara el programa principal del ejercicio N10 y algunos de los ejercicios adicionales que realice para entender el funcionamiento de jupyter notebook.
 
 ## Instalacion de Dependencias
 
